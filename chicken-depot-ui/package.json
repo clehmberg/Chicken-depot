@@ -1,0 +1,24 @@
+{
+  "name": "cart2-ui2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "apollo-client": "^2.1.0",
+    "bootstrap": "4.0.0-beta",
+    "graphcool": "^0.8.1",
+    "react": "^16.2.0",
+    "react-apollo": "^1.0.1",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "react-scripts": "1.0.17",
+    "reactstrap": "^5.0.0-alpha.4",
+    "redux": "^3.7.2",
+    "redux-little-router": "^14.2.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
