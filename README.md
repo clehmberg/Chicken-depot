@@ -8,4 +8,4 @@ npm start local server on ui
 
 you will need a Graphcool instance on the web
 
-connect to graphcool with url 
+connect to graphcool
