@@ -6,6 +6,7 @@
     "apollo-client": "^2.1.0",
     "bootstrap": "4.0.0-beta",
     "graphcool": "^0.8.1",
+    "jest-enzyme": "^4.0.1",
     "react": "^16.2.0",
     "react-apollo": "^1.0.1",
     "react-dom": "^16.2.0",
@@ -19,6 +20,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "npm run build && netlify deploy"
+  },
+  "devDependencies": {
+    "enzyme": "^3.2.0",
+    "enzyme-adapter-react-16": "^1.1.0"
   }
 }

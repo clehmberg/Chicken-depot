@@ -55,6 +55,7 @@ export class Layout extends Component {
     this.props.dispatch(push(`/products/${product.id}/update`))
   }
 
+
   render() {
     const products = this.props.products.map((product) => (
       <Col key={product.id}>
