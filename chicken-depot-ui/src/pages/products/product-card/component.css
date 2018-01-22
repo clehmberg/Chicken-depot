@@ -1,0 +1,17 @@
+.products-container {
+  padding: 1em;
+  margin: 1em;
+
+}
+.card img {
+  width: 250px;
+  height: 200px;
+  padding: 1em;
+}
+
+.card {
+  max-width: 400px;
+  min-width: 300px;
+  margin: 1em;
+
+}
