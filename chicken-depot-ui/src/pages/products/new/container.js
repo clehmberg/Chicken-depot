@@ -76,7 +76,10 @@ export class ProductsNew extends Component {
     return (
       <Col>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e9d9bc6d60acee741075c481d615cc06fe53e784
         <Form className="new-product-form" onSubmit={this.handleNewProductSubmit}>
 
           <FormGroup>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35d134a6-3b7c-4971-94ea-74cc926937f8" name="Default" comment="" />
+    <list default="true" id="35d134a6-3b7c-4971-94ea-74cc926937f8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/chicken-depot-ui/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/container.js" afterPath="$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/container.js" />
+      <change beforePath="$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/navbar/component.js" afterPath="$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/navbar/component.js" />
+      <change beforePath="$PROJECT_DIR$/chicken-depot-ui/src/pages/products/new/container.js" afterPath="$PROJECT_DIR$/chicken-depot-ui/src/pages/products/new/container.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,8 +24,8 @@
       <file leaf-file-name="container.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/container.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
-              <caret line="42" column="157" lean-forward="false" selection-start-line="42" selection-start-column="157" selection-end-line="42" selection-end-column="157" />
+            <state relative-caret-position="113">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -26,11 +33,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="component.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/navbar/component.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="76">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -47,8 +64,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/chicken-depot-ui/src/pages/products/new/container.js" />
-        <option value="$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/container.js" />
         <option value="$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/navbar/component.js" />
+        <option value="$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/container.js" />
       </list>
     </option>
   </component>
@@ -179,7 +196,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12786000" />
+    <option name="totallyTimeSpent" value="13981000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -238,7 +255,7 @@
         <state relative-caret-position="950">
           <caret line="58" column="12" lean-forward="false" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
           <folding>
-            <element signature="e#0#40#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="false" />
             <marker date="1512513006974" expanded="true" signature="495:639" ph="{...}" />
             <marker date="1512513006974" expanded="true" signature="507:518" ph="allProducts...allProducts" />
             <marker date="1512513006974" expanded="true" signature="507:629" ph="allProducts...{&#10;            id&#10;            cardTitle&#10;            image&#10;            price&#10;            description&#10;          }" />
@@ -306,7 +323,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#40#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="false" />
             <marker date="1512513006974" expanded="true" signature="495:639" ph="{...}" />
             <marker date="1512513006974" expanded="true" signature="507:518" ph="allProducts...allProducts" />
             <marker date="1512513006974" expanded="true" signature="507:629" ph="allProducts...{&#10;            id&#10;            cardTitle&#10;            image&#10;            price&#10;            description&#10;          }" />
@@ -354,7 +371,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#40#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="false" />
             <marker date="1512513006974" expanded="true" signature="495:639" ph="{...}" />
             <marker date="1512513006974" expanded="true" signature="507:518" ph="allProducts...allProducts" />
             <marker date="1512513006974" expanded="true" signature="507:629" ph="allProducts...{&#10;            id&#10;            cardTitle&#10;            image&#10;            price&#10;            description&#10;          }" />
@@ -458,26 +475,26 @@
         <state relative-caret-position="-409">
           <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding>
-            <marker date="1516473711082" expanded="true" signature="1008:1435" ph="mutation...{&#10;              createProduct(&#10;                  cardTitle: $cardTitle&#10;                  image: $image&#10;                  price: $price&#10;                  description: $description&#10;              ) {&#10;                  cardTitle&#10;                  image&#10;                  price&#10;                  description&#10;              }&#10;          }" />
-            <marker date="1516473711082" expanded="true" signature="1017:1030" ph="createProduct...createProduct" />
-            <marker date="1516473711082" expanded="true" signature="1030:1104" ph="(...)" />
-            <marker date="1516473711082" expanded="true" signature="1043:1049" ph="String...String" />
-            <marker date="1516473711082" expanded="true" signature="1060:1066" ph="String...String" />
-            <marker date="1516473711082" expanded="true" signature="1083:1089" ph="String...String" />
-            <marker date="1516473711082" expanded="true" signature="1100:1103" ph="Int...Int" />
-            <marker date="1516473711082" expanded="true" signature="1105:1435" ph="{...}" />
-            <marker date="1516473711082" expanded="true" signature="1121:1134" ph="createProduct...createProduct" />
-            <marker date="1516473711082" expanded="true" signature="1121:1423" ph="createProduct...{&#10;                  cardTitle&#10;                  image&#10;                  price&#10;                  description&#10;              }" />
-            <marker date="1516473711082" expanded="true" signature="1134:1299" ph="(...)" />
-            <marker date="1516473711082" expanded="true" signature="1154:1163" ph="cardTitle...cardTitle" />
-            <marker date="1516473711082" expanded="true" signature="1194:1199" ph="image...image" />
-            <marker date="1516473711082" expanded="true" signature="1226:1231" ph="price...price" />
-            <marker date="1516473711082" expanded="true" signature="1258:1269" ph="description...description" />
-            <marker date="1516473711082" expanded="true" signature="1300:1423" ph="{...}" />
-            <marker date="1516473711082" expanded="true" signature="1320:1329" ph="cardTitle...cardTitle" />
-            <marker date="1516473711082" expanded="true" signature="1348:1353" ph="image...image" />
-            <marker date="1516473711082" expanded="true" signature="1372:1377" ph="price...price" />
-            <marker date="1516473711082" expanded="true" signature="1396:1407" ph="description...description" />
+            <marker date="1516665158479" expanded="true" signature="1008:1435" ph="mutation...{&#10;              createProduct(&#10;                  cardTitle: $cardTitle&#10;                  image: $image&#10;                  price: $price&#10;                  description: $description&#10;              ) {&#10;                  cardTitle&#10;                  image&#10;                  price&#10;                  description&#10;              }&#10;          }" />
+            <marker date="1516665158479" expanded="true" signature="1017:1030" ph="createProduct...createProduct" />
+            <marker date="1516665158479" expanded="true" signature="1030:1104" ph="(...)" />
+            <marker date="1516665158479" expanded="true" signature="1043:1049" ph="String...String" />
+            <marker date="1516665158479" expanded="true" signature="1060:1066" ph="String...String" />
+            <marker date="1516665158479" expanded="true" signature="1083:1089" ph="String...String" />
+            <marker date="1516665158479" expanded="true" signature="1100:1103" ph="Int...Int" />
+            <marker date="1516665158479" expanded="true" signature="1105:1435" ph="{...}" />
+            <marker date="1516665158479" expanded="true" signature="1121:1134" ph="createProduct...createProduct" />
+            <marker date="1516665158479" expanded="true" signature="1121:1423" ph="createProduct...{&#10;                  cardTitle&#10;                  image&#10;                  price&#10;                  description&#10;              }" />
+            <marker date="1516665158479" expanded="true" signature="1134:1299" ph="(...)" />
+            <marker date="1516665158479" expanded="true" signature="1154:1163" ph="cardTitle...cardTitle" />
+            <marker date="1516665158479" expanded="true" signature="1194:1199" ph="image...image" />
+            <marker date="1516665158479" expanded="true" signature="1226:1231" ph="price...price" />
+            <marker date="1516665158479" expanded="true" signature="1258:1269" ph="description...description" />
+            <marker date="1516665158479" expanded="true" signature="1300:1423" ph="{...}" />
+            <marker date="1516665158479" expanded="true" signature="1320:1329" ph="cardTitle...cardTitle" />
+            <marker date="1516665158479" expanded="true" signature="1348:1353" ph="image...image" />
+            <marker date="1516665158479" expanded="true" signature="1372:1377" ph="price...price" />
+            <marker date="1516665158479" expanded="true" signature="1396:1407" ph="description...description" />
           </folding>
         </state>
       </provider>
@@ -487,7 +504,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -497,7 +514,7 @@
         <state relative-caret-position="878">
           <caret line="58" column="12" lean-forward="false" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
           <folding>
-            <element signature="e#0#40#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="false" />
             <marker date="1512513006974" expanded="true" signature="495:639" ph="{...}" />
             <marker date="1512513006974" expanded="true" signature="507:518" ph="allProducts...allProducts" />
             <marker date="1512513006974" expanded="true" signature="507:629" ph="allProducts...{&#10;            id&#10;            cardTitle&#10;            image&#10;            price&#10;            description&#10;          }" />
@@ -554,7 +571,7 @@
         <state relative-caret-position="950">
           <caret line="58" column="12" lean-forward="false" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
           <folding>
-            <element signature="e#0#40#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="false" />
             <marker date="1512513006974" expanded="true" signature="495:639" ph="{...}" />
             <marker date="1512513006974" expanded="true" signature="507:518" ph="allProducts...allProducts" />
             <marker date="1512513006974" expanded="true" signature="507:629" ph="allProducts...{&#10;            id&#10;            cardTitle&#10;            image&#10;            price&#10;            description&#10;          }" />
@@ -621,7 +638,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#40#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="false" />
             <marker date="1512513006974" expanded="true" signature="495:639" ph="{...}" />
             <marker date="1512513006974" expanded="true" signature="507:518" ph="allProducts...allProducts" />
             <marker date="1512513006974" expanded="true" signature="507:629" ph="allProducts...{&#10;            id&#10;            cardTitle&#10;            image&#10;            price&#10;            description&#10;          }" />
@@ -668,7 +685,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#40#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="false" />
             <marker date="1512513006974" expanded="true" signature="495:639" ph="{...}" />
             <marker date="1512513006974" expanded="true" signature="507:518" ph="allProducts...allProducts" />
             <marker date="1512513006974" expanded="true" signature="507:629" ph="allProducts...{&#10;            id&#10;            cardTitle&#10;            image&#10;            price&#10;            description&#10;          }" />
@@ -729,7 +746,7 @@
         <state relative-caret-position="1102">
           <caret line="58" column="12" lean-forward="false" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
           <folding>
-            <element signature="e#0#40#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="false" />
             <marker date="1512513006974" expanded="true" signature="495:639" ph="{...}" />
             <marker date="1512513006974" expanded="true" signature="507:518" ph="allProducts...allProducts" />
             <marker date="1512513006974" expanded="true" signature="507:629" ph="allProducts...{&#10;            id&#10;            cardTitle&#10;            image&#10;            price&#10;            description&#10;          }" />
@@ -759,7 +776,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -769,36 +786,26 @@
         <state relative-caret-position="179">
           <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding>
-            <marker date="1516473711082" expanded="true" signature="1008:1435" ph="mutation...{&#10;              createProduct(&#10;                  cardTitle: $cardTitle&#10;                  image: $image&#10;                  price: $price&#10;                  description: $description&#10;              ) {&#10;                  cardTitle&#10;                  image&#10;                  price&#10;                  description&#10;              }&#10;          }" />
-            <marker date="1516473711082" expanded="true" signature="1017:1030" ph="createProduct...createProduct" />
-            <marker date="1516473711082" expanded="true" signature="1030:1104" ph="(...)" />
-            <marker date="1516473711082" expanded="true" signature="1043:1049" ph="String...String" />
-            <marker date="1516473711082" expanded="true" signature="1060:1066" ph="String...String" />
-            <marker date="1516473711082" expanded="true" signature="1083:1089" ph="String...String" />
-            <marker date="1516473711082" expanded="true" signature="1100:1103" ph="Int...Int" />
-            <marker date="1516473711082" expanded="true" signature="1105:1435" ph="{...}" />
-            <marker date="1516473711082" expanded="true" signature="1121:1134" ph="createProduct...createProduct" />
-            <marker date="1516473711082" expanded="true" signature="1121:1423" ph="createProduct...{&#10;                  cardTitle&#10;                  image&#10;                  price&#10;                  description&#10;              }" />
-            <marker date="1516473711082" expanded="true" signature="1134:1299" ph="(...)" />
-            <marker date="1516473711082" expanded="true" signature="1154:1163" ph="cardTitle...cardTitle" />
-            <marker date="1516473711082" expanded="true" signature="1194:1199" ph="image...image" />
-            <marker date="1516473711082" expanded="true" signature="1226:1231" ph="price...price" />
-            <marker date="1516473711082" expanded="true" signature="1258:1269" ph="description...description" />
-            <marker date="1516473711082" expanded="true" signature="1300:1423" ph="{...}" />
-            <marker date="1516473711082" expanded="true" signature="1320:1329" ph="cardTitle...cardTitle" />
-            <marker date="1516473711082" expanded="true" signature="1348:1353" ph="image...image" />
-            <marker date="1516473711082" expanded="true" signature="1372:1377" ph="price...price" />
-            <marker date="1516473711082" expanded="true" signature="1396:1407" ph="description...description" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/container.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="42" column="157" lean-forward="false" selection-start-line="42" selection-start-column="157" selection-end-line="42" selection-end-column="157" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
+            <marker date="1516665158479" expanded="true" signature="1008:1435" ph="mutation...{&#10;              createProduct(&#10;                  cardTitle: $cardTitle&#10;                  image: $image&#10;                  price: $price&#10;                  description: $description&#10;              ) {&#10;                  cardTitle&#10;                  image&#10;                  price&#10;                  description&#10;              }&#10;          }" />
+            <marker date="1516665158479" expanded="true" signature="1017:1030" ph="createProduct...createProduct" />
+            <marker date="1516665158479" expanded="true" signature="1030:1104" ph="(...)" />
+            <marker date="1516665158479" expanded="true" signature="1043:1049" ph="String...String" />
+            <marker date="1516665158479" expanded="true" signature="1060:1066" ph="String...String" />
+            <marker date="1516665158479" expanded="true" signature="1083:1089" ph="String...String" />
+            <marker date="1516665158479" expanded="true" signature="1100:1103" ph="Int...Int" />
+            <marker date="1516665158479" expanded="true" signature="1105:1435" ph="{...}" />
+            <marker date="1516665158479" expanded="true" signature="1121:1134" ph="createProduct...createProduct" />
+            <marker date="1516665158479" expanded="true" signature="1121:1423" ph="createProduct...{&#10;                  cardTitle&#10;                  image&#10;                  price&#10;                  description&#10;              }" />
+            <marker date="1516665158479" expanded="true" signature="1134:1299" ph="(...)" />
+            <marker date="1516665158479" expanded="true" signature="1154:1163" ph="cardTitle...cardTitle" />
+            <marker date="1516665158479" expanded="true" signature="1194:1199" ph="image...image" />
+            <marker date="1516665158479" expanded="true" signature="1226:1231" ph="price...price" />
+            <marker date="1516665158479" expanded="true" signature="1258:1269" ph="description...description" />
+            <marker date="1516665158479" expanded="true" signature="1300:1423" ph="{...}" />
+            <marker date="1516665158479" expanded="true" signature="1320:1329" ph="cardTitle...cardTitle" />
+            <marker date="1516665158479" expanded="true" signature="1348:1353" ph="image...image" />
+            <marker date="1516665158479" expanded="true" signature="1372:1377" ph="price...price" />
+            <marker date="1516665158479" expanded="true" signature="1396:1407" ph="description...description" />
           </folding>
         </state>
       </provider>
@@ -825,13 +832,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1696">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chicken-depot-ui/.netlify">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -839,12 +839,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-307">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/navbar/component.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/container.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>

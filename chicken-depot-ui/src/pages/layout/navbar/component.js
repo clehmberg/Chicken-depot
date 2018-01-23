@@ -1,17 +1,17 @@
 import React from 'react'
-import { Nav, NavbarBrand, Navbar, Form } from 'reactstrap'
-import { Link } from 'redux-little-router'
-import '../container.css'
+  import {Nav, NavbarBrand, Navbar, Form} from 'reactstrap'
+  import {Link} from 'redux-little-router'
+  import '../container.css'
 
 
-export default ({ cartCount }) => (
+  export default ({cartCount}) => (
   <Navbar dark={true} className={"bg-dark"}>
     <NavbarBrand>Clint's Chicken Depot</NavbarBrand>
     <Form inline>
       {/*<FormGroup>*/}
-        {/*<Input type="userName" name="userName" id="userName" placeholder="user name"/>*/}
-        {/*<Input type="password" name="password" id="password" placeholder="password"/>*/}
-        {/*<Button>Submit</Button>*/}
+      {/*<Input type="userName" name="userName" id="userName" placeholder="user name"/>*/}
+      {/*<Input type="password" name="password" id="password" placeholder="password"/>*/}
+      {/*<Button>Submit</Button>*/}
       {/*</FormGroup>*/}
     </Form>
     <Nav>
@@ -20,4 +20,4 @@ export default ({ cartCount }) => (
       <Link href="/cart" className="nav-link">Cart({cartCount})</Link>
     </Nav>
   </Navbar>
-)
+  )

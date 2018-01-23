@@ -9,6 +9,7 @@ import ProductsNew from '../products/new/container'
 import Update from '../products/update/container'
 import { Jumbotron } from 'reactstrap'
 
+
 export class Layout extends Component {
   componentWillMount () {
     if (this.props.currentPath === '/') {
@@ -19,7 +20,6 @@ export class Layout extends Component {
   render () {
     return (
       <div className="layout-container">
-
         <MainNavbar cartCount={this.props.cartProducts.length}/>
         <Jumbotron>
           <h1 className="display-3">Welcome to Clint's Chicken Depot!</h1>
@@ -46,6 +46,9 @@ export class Layout extends Component {
             <li>The "Cart" page is very basic as well, simply add products to the cart from the "Products" page. You can remove each item individually by pressing the "Remove Item" button or clear the cart using the "Clear Cart" button.</li>
           </ul>
         </Jumbotron>
+=======
+        <MainNavbar cartCount={this.props.cartProducts.length}/>
+>>>>>>> e9d9bc6d60acee741075c481d615cc06fe53e784
         <Fragment forRoute="/">
           <div className={'routable-container'}>
             <Fragment forRoute="/products/new">
