@@ -4,6 +4,7 @@ import './container.css'
 import {connect} from 'react-redux'
 import {gql} from 'react-apollo'
 import client from '../../../client'
+
 // import {push} from "redux-little-router"
 
 
@@ -75,13 +76,7 @@ export class ProductsNew extends Component {
     // const product = this.props.products.map((product, id) => product = {product})
     return (
       <Col>
-
-<<<<<<< HEAD
-
-=======
->>>>>>> e9d9bc6d60acee741075c481d615cc06fe53e784
         <Form className="new-product-form" onSubmit={this.handleNewProductSubmit}>
-
           <FormGroup>
             <Label>Product Name</Label>
             <Input onChange={(evt) => this.setState({cardTitle: evt.target.value})}/>

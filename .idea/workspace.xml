@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35d134a6-3b7c-4971-94ea-74cc926937f8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/container.js" afterPath="$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/container.js" />
+      <change beforePath="$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/navbar/component.js" afterPath="$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/navbar/component.js" />
+      <change beforePath="$PROJECT_DIR$/chicken-depot-ui/src/pages/products/new/container.js" afterPath="$PROJECT_DIR$/chicken-depot-ui/src/pages/products/new/container.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="container.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/container.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="container.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/products/new/container.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="86" column="8" lean-forward="false" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+                <marker date="1516667208876" expanded="true" signature="1009:1436" ph="mutation...{&#10;              createProduct(&#10;                  cardTitle: $cardTitle&#10;                  image: $image&#10;                  price: $price&#10;                  description: $description&#10;              ) {&#10;                  cardTitle&#10;                  image&#10;                  price&#10;                  description&#10;              }&#10;          }" />
+                <marker date="1516667208876" expanded="true" signature="1018:1031" ph="createProduct...createProduct" />
+                <marker date="1516667208876" expanded="true" signature="1031:1105" ph="(...)" />
+                <marker date="1516667208876" expanded="true" signature="1044:1050" ph="String...String" />
+                <marker date="1516667208876" expanded="true" signature="1061:1067" ph="String...String" />
+                <marker date="1516667208876" expanded="true" signature="1084:1090" ph="String...String" />
+                <marker date="1516667208876" expanded="true" signature="1101:1104" ph="Int...Int" />
+                <marker date="1516667208876" expanded="true" signature="1106:1436" ph="{...}" />
+                <marker date="1516667208876" expanded="true" signature="1122:1135" ph="createProduct...createProduct" />
+                <marker date="1516667208876" expanded="true" signature="1122:1424" ph="createProduct...{&#10;                  cardTitle&#10;                  image&#10;                  price&#10;                  description&#10;              }" />
+                <marker date="1516667208876" expanded="true" signature="1135:1300" ph="(...)" />
+                <marker date="1516667208876" expanded="true" signature="1155:1164" ph="cardTitle...cardTitle" />
+                <marker date="1516667208876" expanded="true" signature="1195:1200" ph="image...image" />
+                <marker date="1516667208876" expanded="true" signature="1227:1232" ph="price...price" />
+                <marker date="1516667208876" expanded="true" signature="1259:1270" ph="description...description" />
+                <marker date="1516667208876" expanded="true" signature="1301:1424" ph="{...}" />
+                <marker date="1516667208876" expanded="true" signature="1321:1330" ph="cardTitle...cardTitle" />
+                <marker date="1516667208876" expanded="true" signature="1349:1354" ph="image...image" />
+                <marker date="1516667208876" expanded="true" signature="1373:1378" ph="price...price" />
+                <marker date="1516667208876" expanded="true" signature="1397:1408" ph="description...description" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="component.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/navbar/component.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/container.js" />
+        <option value="$PROJECT_DIR$/chicken-depot-ui/src/pages/products/new/container.js" />
+        <option value="$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/navbar/component.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/chicken-depot-ui/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="716" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="chicken-depot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chicken-depot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chicken-depot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chicken-depot" type="462c0819:PsiDirectoryNode" />
+              <item name="chicken-depot-ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chicken-depot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chicken-depot" type="462c0819:PsiDirectoryNode" />
+              <item name="chicken-depot-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chicken-depot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chicken-depot" type="462c0819:PsiDirectoryNode" />
+              <item name="chicken-depot-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chicken-depot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chicken-depot" type="462c0819:PsiDirectoryNode" />
+              <item name="chicken-depot-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="products" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chicken-depot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chicken-depot" type="462c0819:PsiDirectoryNode" />
+              <item name="chicken-depot-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="products" type="462c0819:PsiDirectoryNode" />
+              <item name="new" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chicken-depot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chicken-depot" type="462c0819:PsiDirectoryNode" />
+              <item name="chicken-depot-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="products" type="462c0819:PsiDirectoryNode" />
+              <item name="product-card" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.path.for.package.jscs" value="$USER_HOME$/.nvm/versions/node/v8.6.0/bin/node" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="jsgraphql-schema-editor-notification" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.6.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35d134a6-3b7c-4971-94ea-74cc926937f8" name="Default" comment="" />
+      <created>1512753783539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512753783539</updated>
+      <workItem from="1512753784793" duration="360000" />
+      <workItem from="1512952240777" duration="157000" />
+      <workItem from="1515454334675" duration="10000" />
+      <workItem from="1515456265489" duration="1635000" />
+      <workItem from="1516470216980" duration="10314000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15283000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="GraphQL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/graphql.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/products/container.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="58" column="12" lean-forward="false" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+            <marker date="1512513006974" expanded="true" signature="495:639" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="507:518" ph="allProducts...allProducts" />
+            <marker date="1512513006974" expanded="true" signature="507:629" ph="allProducts...{&#10;            id&#10;            cardTitle&#10;            image&#10;            price&#10;            description&#10;          }" />
+            <marker date="1512513006974" expanded="true" signature="519:629" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="533:535" ph="id...id" />
+            <marker date="1512513006974" expanded="true" signature="548:557" ph="cardTitle...cardTitle" />
+            <marker date="1512513006974" expanded="true" signature="570:575" ph="image...image" />
+            <marker date="1512513006974" expanded="true" signature="588:593" ph="price...price" />
+            <marker date="1512513006974" expanded="true" signature="606:617" ph="description...description" />
+            <marker date="1512513006974" expanded="true" signature="871:977" ph="mutation...{&#10;          deleteProduct(id: $id) {&#10;            id&#10;          }&#10;        }" />
+            <marker date="1512513006974" expanded="true" signature="880:893" ph="deleteProduct...deleteProduct" />
+            <marker date="1512513006974" expanded="true" signature="893:903" ph="(...)" />
+            <marker date="1512513006974" expanded="true" signature="899:901" ph="ID...ID" />
+            <marker date="1512513006974" expanded="true" signature="904:977" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="916:929" ph="deleteProduct...deleteProduct" />
+            <marker date="1512513006974" expanded="true" signature="916:967" ph="deleteProduct...{&#10;            id&#10;          }" />
+            <marker date="1512513006974" expanded="true" signature="929:938" ph="(...)" />
+            <marker date="1512513006974" expanded="true" signature="930:932" ph="id...id" />
+            <marker date="1512513006974" expanded="true" signature="939:967" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="953:955" ph="id...id" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/container.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/setupTests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#20#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/graphql.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/container.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/products/container.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+            <marker date="1512513006974" expanded="true" signature="495:639" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="507:518" ph="allProducts...allProducts" />
+            <marker date="1512513006974" expanded="true" signature="507:629" ph="allProducts...{&#10;            id&#10;            cardTitle&#10;            image&#10;            price&#10;            description&#10;          }" />
+            <marker date="1512513006974" expanded="true" signature="519:629" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="533:535" ph="id...id" />
+            <marker date="1512513006974" expanded="true" signature="548:557" ph="cardTitle...cardTitle" />
+            <marker date="1512513006974" expanded="true" signature="570:575" ph="image...image" />
+            <marker date="1512513006974" expanded="true" signature="588:593" ph="price...price" />
+            <marker date="1512513006974" expanded="true" signature="606:617" ph="description...description" />
+            <marker date="1512513006974" expanded="true" signature="871:977" ph="mutation...{&#10;          deleteProduct(id: $id) {&#10;            id&#10;          }&#10;        }" />
+            <marker date="1512513006974" expanded="true" signature="880:893" ph="deleteProduct...deleteProduct" />
+            <marker date="1512513006974" expanded="true" signature="893:903" ph="(...)" />
+            <marker date="1512513006974" expanded="true" signature="899:901" ph="ID...ID" />
+            <marker date="1512513006974" expanded="true" signature="904:977" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="916:929" ph="deleteProduct...deleteProduct" />
+            <marker date="1512513006974" expanded="true" signature="916:967" ph="deleteProduct...{&#10;            id&#10;          }" />
+            <marker date="1512513006974" expanded="true" signature="929:938" ph="(...)" />
+            <marker date="1512513006974" expanded="true" signature="930:932" ph="id...id" />
+            <marker date="1512513006974" expanded="true" signature="939:967" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="953:955" ph="id...id" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/graphql.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/container.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/products/container.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+            <marker date="1512513006974" expanded="true" signature="495:639" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="507:518" ph="allProducts...allProducts" />
+            <marker date="1512513006974" expanded="true" signature="507:629" ph="allProducts...{&#10;            id&#10;            cardTitle&#10;            image&#10;            price&#10;            description&#10;          }" />
+            <marker date="1512513006974" expanded="true" signature="519:629" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="533:535" ph="id...id" />
+            <marker date="1512513006974" expanded="true" signature="548:557" ph="cardTitle...cardTitle" />
+            <marker date="1512513006974" expanded="true" signature="570:575" ph="image...image" />
+            <marker date="1512513006974" expanded="true" signature="588:593" ph="price...price" />
+            <marker date="1512513006974" expanded="true" signature="606:617" ph="description...description" />
+            <marker date="1512513006974" expanded="true" signature="871:977" ph="mutation...{&#10;          deleteProduct(id: $id) {&#10;            id&#10;          }&#10;        }" />
+            <marker date="1512513006974" expanded="true" signature="880:893" ph="deleteProduct...deleteProduct" />
+            <marker date="1512513006974" expanded="true" signature="893:903" ph="(...)" />
+            <marker date="1512513006974" expanded="true" signature="899:901" ph="ID...ID" />
+            <marker date="1512513006974" expanded="true" signature="904:977" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="916:929" ph="deleteProduct...deleteProduct" />
+            <marker date="1512513006974" expanded="true" signature="916:967" ph="deleteProduct...{&#10;            id&#10;          }" />
+            <marker date="1512513006974" expanded="true" signature="929:938" ph="(...)" />
+            <marker date="1512513006974" expanded="true" signature="930:932" ph="id...id" />
+            <marker date="1512513006974" expanded="true" signature="939:967" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="953:955" ph="id...id" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/graphql.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/graphql.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/node_modules/graphql-anywhere/src/getFromAST.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/setupTests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#20#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="23" column="46" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3871">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1696">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/.netlify">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/products/new/container.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-409">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <marker date="1516667208876" expanded="true" signature="1009:1436" ph="mutation...{&#10;              createProduct(&#10;                  cardTitle: $cardTitle&#10;                  image: $image&#10;                  price: $price&#10;                  description: $description&#10;              ) {&#10;                  cardTitle&#10;                  image&#10;                  price&#10;                  description&#10;              }&#10;          }" />
+            <marker date="1516667208876" expanded="true" signature="1018:1031" ph="createProduct...createProduct" />
+            <marker date="1516667208876" expanded="true" signature="1031:1105" ph="(...)" />
+            <marker date="1516667208876" expanded="true" signature="1044:1050" ph="String...String" />
+            <marker date="1516667208876" expanded="true" signature="1061:1067" ph="String...String" />
+            <marker date="1516667208876" expanded="true" signature="1084:1090" ph="String...String" />
+            <marker date="1516667208876" expanded="true" signature="1101:1104" ph="Int...Int" />
+            <marker date="1516667208876" expanded="true" signature="1106:1436" ph="{...}" />
+            <marker date="1516667208876" expanded="true" signature="1122:1135" ph="createProduct...createProduct" />
+            <marker date="1516667208876" expanded="true" signature="1122:1424" ph="createProduct...{&#10;                  cardTitle&#10;                  image&#10;                  price&#10;                  description&#10;              }" />
+            <marker date="1516667208876" expanded="true" signature="1135:1300" ph="(...)" />
+            <marker date="1516667208876" expanded="true" signature="1155:1164" ph="cardTitle...cardTitle" />
+            <marker date="1516667208876" expanded="true" signature="1195:1200" ph="image...image" />
+            <marker date="1516667208876" expanded="true" signature="1227:1232" ph="price...price" />
+            <marker date="1516667208876" expanded="true" signature="1259:1270" ph="description...description" />
+            <marker date="1516667208876" expanded="true" signature="1301:1424" ph="{...}" />
+            <marker date="1516667208876" expanded="true" signature="1321:1330" ph="cardTitle...cardTitle" />
+            <marker date="1516667208876" expanded="true" signature="1349:1354" ph="image...image" />
+            <marker date="1516667208876" expanded="true" signature="1373:1378" ph="price...price" />
+            <marker date="1516667208876" expanded="true" signature="1397:1408" ph="description...description" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/products/product-card/component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/products/container.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="878">
+          <caret line="58" column="12" lean-forward="false" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+            <marker date="1512513006974" expanded="true" signature="495:639" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="507:518" ph="allProducts...allProducts" />
+            <marker date="1512513006974" expanded="true" signature="507:629" ph="allProducts...{&#10;            id&#10;            cardTitle&#10;            image&#10;            price&#10;            description&#10;          }" />
+            <marker date="1512513006974" expanded="true" signature="519:629" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="533:535" ph="id...id" />
+            <marker date="1512513006974" expanded="true" signature="548:557" ph="cardTitle...cardTitle" />
+            <marker date="1512513006974" expanded="true" signature="570:575" ph="image...image" />
+            <marker date="1512513006974" expanded="true" signature="588:593" ph="price...price" />
+            <marker date="1512513006974" expanded="true" signature="606:617" ph="description...description" />
+            <marker date="1512513006974" expanded="true" signature="871:977" ph="mutation...{&#10;          deleteProduct(id: $id) {&#10;            id&#10;          }&#10;        }" />
+            <marker date="1512513006974" expanded="true" signature="880:893" ph="deleteProduct...deleteProduct" />
+            <marker date="1512513006974" expanded="true" signature="893:903" ph="(...)" />
+            <marker date="1512513006974" expanded="true" signature="899:901" ph="ID...ID" />
+            <marker date="1512513006974" expanded="true" signature="904:977" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="916:929" ph="deleteProduct...deleteProduct" />
+            <marker date="1512513006974" expanded="true" signature="916:967" ph="deleteProduct...{&#10;            id&#10;          }" />
+            <marker date="1512513006974" expanded="true" signature="929:938" ph="(...)" />
+            <marker date="1512513006974" expanded="true" signature="930:932" ph="id...id" />
+            <marker date="1512513006974" expanded="true" signature="939:967" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="953:955" ph="id...id" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/navbar/component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/container.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="42" column="157" lean-forward="false" selection-start-line="42" selection-start-column="157" selection-end-line="42" selection-end-column="157" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/graphql.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/products/container.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="58" column="12" lean-forward="false" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+            <marker date="1512513006974" expanded="true" signature="495:639" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="507:518" ph="allProducts...allProducts" />
+            <marker date="1512513006974" expanded="true" signature="507:629" ph="allProducts...{&#10;            id&#10;            cardTitle&#10;            image&#10;            price&#10;            description&#10;          }" />
+            <marker date="1512513006974" expanded="true" signature="519:629" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="533:535" ph="id...id" />
+            <marker date="1512513006974" expanded="true" signature="548:557" ph="cardTitle...cardTitle" />
+            <marker date="1512513006974" expanded="true" signature="570:575" ph="image...image" />
+            <marker date="1512513006974" expanded="true" signature="588:593" ph="price...price" />
+            <marker date="1512513006974" expanded="true" signature="606:617" ph="description...description" />
+            <marker date="1512513006974" expanded="true" signature="871:977" ph="mutation...{&#10;          deleteProduct(id: $id) {&#10;            id&#10;          }&#10;        }" />
+            <marker date="1512513006974" expanded="true" signature="880:893" ph="deleteProduct...deleteProduct" />
+            <marker date="1512513006974" expanded="true" signature="893:903" ph="(...)" />
+            <marker date="1512513006974" expanded="true" signature="899:901" ph="ID...ID" />
+            <marker date="1512513006974" expanded="true" signature="904:977" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="916:929" ph="deleteProduct...deleteProduct" />
+            <marker date="1512513006974" expanded="true" signature="916:967" ph="deleteProduct...{&#10;            id&#10;          }" />
+            <marker date="1512513006974" expanded="true" signature="929:938" ph="(...)" />
+            <marker date="1512513006974" expanded="true" signature="930:932" ph="id...id" />
+            <marker date="1512513006974" expanded="true" signature="939:967" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="953:955" ph="id...id" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/container.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/setupTests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#20#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/graphql.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/container.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/products/container.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+            <marker date="1512513006974" expanded="true" signature="495:639" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="507:518" ph="allProducts...allProducts" />
+            <marker date="1512513006974" expanded="true" signature="507:629" ph="allProducts...{&#10;            id&#10;            cardTitle&#10;            image&#10;            price&#10;            description&#10;          }" />
+            <marker date="1512513006974" expanded="true" signature="519:629" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="533:535" ph="id...id" />
+            <marker date="1512513006974" expanded="true" signature="548:557" ph="cardTitle...cardTitle" />
+            <marker date="1512513006974" expanded="true" signature="570:575" ph="image...image" />
+            <marker date="1512513006974" expanded="true" signature="588:593" ph="price...price" />
+            <marker date="1512513006974" expanded="true" signature="606:617" ph="description...description" />
+            <marker date="1512513006974" expanded="true" signature="871:977" ph="mutation...{&#10;          deleteProduct(id: $id) {&#10;            id&#10;          }&#10;        }" />
+            <marker date="1512513006974" expanded="true" signature="880:893" ph="deleteProduct...deleteProduct" />
+            <marker date="1512513006974" expanded="true" signature="893:903" ph="(...)" />
+            <marker date="1512513006974" expanded="true" signature="899:901" ph="ID...ID" />
+            <marker date="1512513006974" expanded="true" signature="904:977" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="916:929" ph="deleteProduct...deleteProduct" />
+            <marker date="1512513006974" expanded="true" signature="916:967" ph="deleteProduct...{&#10;            id&#10;          }" />
+            <marker date="1512513006974" expanded="true" signature="929:938" ph="(...)" />
+            <marker date="1512513006974" expanded="true" signature="930:932" ph="id...id" />
+            <marker date="1512513006974" expanded="true" signature="939:967" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="953:955" ph="id...id" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/graphql.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/container.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/products/container.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+            <marker date="1512513006974" expanded="true" signature="495:639" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="507:518" ph="allProducts...allProducts" />
+            <marker date="1512513006974" expanded="true" signature="507:629" ph="allProducts...{&#10;            id&#10;            cardTitle&#10;            image&#10;            price&#10;            description&#10;          }" />
+            <marker date="1512513006974" expanded="true" signature="519:629" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="533:535" ph="id...id" />
+            <marker date="1512513006974" expanded="true" signature="548:557" ph="cardTitle...cardTitle" />
+            <marker date="1512513006974" expanded="true" signature="570:575" ph="image...image" />
+            <marker date="1512513006974" expanded="true" signature="588:593" ph="price...price" />
+            <marker date="1512513006974" expanded="true" signature="606:617" ph="description...description" />
+            <marker date="1512513006974" expanded="true" signature="871:977" ph="mutation...{&#10;          deleteProduct(id: $id) {&#10;            id&#10;          }&#10;        }" />
+            <marker date="1512513006974" expanded="true" signature="880:893" ph="deleteProduct...deleteProduct" />
+            <marker date="1512513006974" expanded="true" signature="893:903" ph="(...)" />
+            <marker date="1512513006974" expanded="true" signature="899:901" ph="ID...ID" />
+            <marker date="1512513006974" expanded="true" signature="904:977" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="916:929" ph="deleteProduct...deleteProduct" />
+            <marker date="1512513006974" expanded="true" signature="916:967" ph="deleteProduct...{&#10;            id&#10;          }" />
+            <marker date="1512513006974" expanded="true" signature="929:938" ph="(...)" />
+            <marker date="1512513006974" expanded="true" signature="930:932" ph="id...id" />
+            <marker date="1512513006974" expanded="true" signature="939:967" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="953:955" ph="id...id" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/graphql.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/graphql.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/node_modules/graphql-anywhere/src/getFromAST.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/setupTests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#20#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/products/container.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="58" column="12" lean-forward="false" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+            <marker date="1512513006974" expanded="true" signature="495:639" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="507:518" ph="allProducts...allProducts" />
+            <marker date="1512513006974" expanded="true" signature="507:629" ph="allProducts...{&#10;            id&#10;            cardTitle&#10;            image&#10;            price&#10;            description&#10;          }" />
+            <marker date="1512513006974" expanded="true" signature="519:629" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="533:535" ph="id...id" />
+            <marker date="1512513006974" expanded="true" signature="548:557" ph="cardTitle...cardTitle" />
+            <marker date="1512513006974" expanded="true" signature="570:575" ph="image...image" />
+            <marker date="1512513006974" expanded="true" signature="588:593" ph="price...price" />
+            <marker date="1512513006974" expanded="true" signature="606:617" ph="description...description" />
+            <marker date="1512513006974" expanded="true" signature="871:977" ph="mutation...{&#10;          deleteProduct(id: $id) {&#10;            id&#10;          }&#10;        }" />
+            <marker date="1512513006974" expanded="true" signature="880:893" ph="deleteProduct...deleteProduct" />
+            <marker date="1512513006974" expanded="true" signature="893:903" ph="(...)" />
+            <marker date="1512513006974" expanded="true" signature="899:901" ph="ID...ID" />
+            <marker date="1512513006974" expanded="true" signature="904:977" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="916:929" ph="deleteProduct...deleteProduct" />
+            <marker date="1512513006974" expanded="true" signature="916:967" ph="deleteProduct...{&#10;            id&#10;          }" />
+            <marker date="1512513006974" expanded="true" signature="929:938" ph="(...)" />
+            <marker date="1512513006974" expanded="true" signature="930:932" ph="id...id" />
+            <marker date="1512513006974" expanded="true" signature="939:967" ph="{...}" />
+            <marker date="1512513006974" expanded="true" signature="953:955" ph="id...id" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/products/product-card/component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="23" column="46" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3871">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/.netlify">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-307">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/products/new/container.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="86" column="8" lean-forward="false" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <marker date="1516667208876" expanded="true" signature="1009:1436" ph="mutation...{&#10;              createProduct(&#10;                  cardTitle: $cardTitle&#10;                  image: $image&#10;                  price: $price&#10;                  description: $description&#10;              ) {&#10;                  cardTitle&#10;                  image&#10;                  price&#10;                  description&#10;              }&#10;          }" />
+            <marker date="1516667208876" expanded="true" signature="1018:1031" ph="createProduct...createProduct" />
+            <marker date="1516667208876" expanded="true" signature="1031:1105" ph="(...)" />
+            <marker date="1516667208876" expanded="true" signature="1044:1050" ph="String...String" />
+            <marker date="1516667208876" expanded="true" signature="1061:1067" ph="String...String" />
+            <marker date="1516667208876" expanded="true" signature="1084:1090" ph="String...String" />
+            <marker date="1516667208876" expanded="true" signature="1101:1104" ph="Int...Int" />
+            <marker date="1516667208876" expanded="true" signature="1106:1436" ph="{...}" />
+            <marker date="1516667208876" expanded="true" signature="1122:1135" ph="createProduct...createProduct" />
+            <marker date="1516667208876" expanded="true" signature="1122:1424" ph="createProduct...{&#10;                  cardTitle&#10;                  image&#10;                  price&#10;                  description&#10;              }" />
+            <marker date="1516667208876" expanded="true" signature="1135:1300" ph="(...)" />
+            <marker date="1516667208876" expanded="true" signature="1155:1164" ph="cardTitle...cardTitle" />
+            <marker date="1516667208876" expanded="true" signature="1195:1200" ph="image...image" />
+            <marker date="1516667208876" expanded="true" signature="1227:1232" ph="price...price" />
+            <marker date="1516667208876" expanded="true" signature="1259:1270" ph="description...description" />
+            <marker date="1516667208876" expanded="true" signature="1301:1424" ph="{...}" />
+            <marker date="1516667208876" expanded="true" signature="1321:1330" ph="cardTitle...cardTitle" />
+            <marker date="1516667208876" expanded="true" signature="1349:1354" ph="image...image" />
+            <marker date="1516667208876" expanded="true" signature="1373:1378" ph="price...price" />
+            <marker date="1516667208876" expanded="true" signature="1397:1408" ph="description...description" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/container.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken-depot-ui/src/pages/layout/navbar/component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
