@@ -7,7 +7,6 @@ import ProductsList from '../products/container'
 import Cart from '../cart/container'
 import ProductsNew from '../products/new/container'
 import Update from '../products/update/container'
-import {Jumbotron} from 'reactstrap'
 
 
 export class Layout extends Component {
@@ -20,9 +19,8 @@ export class Layout extends Component {
   render() {
     return (
       <div className="layout-container">
-        <MainNavbar cartCount={this.props.cartProducts.length}/>
-        <Jumbotron>
-          <h1 className="display-3">Welcome to Clint's Chicken Depot!</h1>
+        <div className="instructions">
+        <h1>Welcome to Clint's Chicken Depot!</h1>
           <p className="lead">This project was done as a final project for the bootcamp I attended at Helio Training in
             Salt Lake City, Ut.
             It was built using React.js, JavaScript, Graphcool(for the database) Redux and Redux little router.
@@ -30,7 +28,7 @@ export class Layout extends Component {
             C.R.U.D(create,read,update,delete) operation to a database.
             Feel free to play around on the site, you will see usage instructions below.</p>
           <hr className="my-2"/>
-          <h3>Products page</h3>
+          <h4>Products page</h4>
           <ul>
             <li>As you can see this is the home page of my site.</li>
             <li>The "Nav bar" has 3 links that will take you to their respective pages</li>
@@ -49,7 +47,7 @@ export class Layout extends Component {
               information.
             </li>
           </ul>
-          <h3>New Products Page</h3>
+          <h4>New Products Page</h4>
           <ul>
             <li>The "New Products" page is a very simple form. Go ahead and fill in the input fields and then press the
               "Add Product" button. You should get an Alert saying "the product has been added to the Database". I chose
@@ -60,14 +58,14 @@ export class Layout extends Component {
               individually in case of a major mistake.
             </li>
           </ul>
-          <h3>Cart Page</h3>
+          <h4>Cart Page</h4>
           <ul>
             <li>The "Cart" page is very basic as well, simply add products to the cart from the "Products" page. You can
               remove each item individually by pressing the "Remove Item" button or clear the cart using the "Clear
               Cart" button.
             </li>
           </ul>
-        </Jumbotron>
+        </div>
         <MainNavbar cartCount={this.props.cartProducts.length}/>
         <Fragment forRoute="/">
           <div className={'routable-container'}>
