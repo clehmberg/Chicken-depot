@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "apollo-link": "^1.1.0",
+    "graphql": "^0.13.1",
+    "jquery": "^3.3.1"
+  }
+}

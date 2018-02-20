@@ -6,7 +6,7 @@ import '../container.css'
 
 export default ({cartCount}) => (
   <Navbar dark={true} className={"bg-dark"}>
-    <NavbarBrand>Clint's Chicken Depot</NavbarBrand>
+    <NavbarBrand className="nav-bar">Clint's Chicken Depot</NavbarBrand>
     {/*<Form inline>*/}
       {/*<FormGroup>*/}
       {/*<Input type="userName" name="userName" id="userName" placeholder="user name"/>*/}
